@@ -656,6 +656,11 @@ width: -webkit-calc(100% / 4);
 	        transition-duration: 250ms;
 }
 
+.more {
+	border: 2px solid #a1a1a1; 
+	margin: 7px;  
+}
+
 /* Flexbox is used for centering the heading */
 .cbp-rfgrid li a .project-info {
 	position: absolute;
